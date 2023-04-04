@@ -1,6 +1,0 @@
-#!/bin/bash
-echo "School"
-root@3fa2cdbb9ea6:/alx-pre_course/0x01-git/bash# git add .
-root@3fa2cdbb9ea6:/alx-pre_course/0x01-git/bash# git commit -m 'Starting to code today, so cool'
-root@3fa2cdbb9ea6:/alx-pre_course/0x01-git/bash# git commit -m "starting to code today, so cool"
-
